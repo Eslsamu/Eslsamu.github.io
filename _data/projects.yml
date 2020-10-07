@@ -11,7 +11,7 @@
   gh_user: Eslsamu
   repo: MarbleBot
   img: https://raw.githubusercontent.com/Eslsamu/MarbleBot/master/ghostdog.png
-  desc: Research project on learning algorithms for quadrupedal locomotion. Implemented deep reinforcement learning algorithms such as PPO and a parellel simulation pipeline for the WeBots simulator.
+  desc: Research project on learning algorithms for quadrupedal locomotion. Implemented deep reinforcement learning algorithms such as PPO and a parallel simulation pipeline for the WeBots simulator.
 
 - name: Minigolf 
   gh_user: Eslsamu
