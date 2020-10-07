@@ -6,8 +6,8 @@
 ![Screenshot](screenshot-overview.png)
 
 ## Installation/Setup
-1. Download or clone repo `https://github.com/Eslsamu/Eslsamu.github.io.git'
-2. Enter the folder: `cd Eslsamu.github.io`
+1. Download or clone repo `https://github.com/Eslsamu/uno-timeline-extras.git'
+2. Enter the folder: `cd uno-timeline-extras`
 3. Build it: `jekyll build`
 4. Start Jekyll server: `jekyll serve`
 5. Configure: `_config.yml`
