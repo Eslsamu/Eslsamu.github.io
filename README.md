@@ -2,7 +2,7 @@
  [Uno-Timeline-Theme](https://github.com/tzuehlke/jekyll-uno-timeline) with moving particles and typed subtitle.
 
 ## How does is look
-[Demo](samuel-kopp.com)
+[Demo](https://samuel-kopp.com)
 ![Screenshot](screenshot-overview.png)
 
 ## Installation/Setup
