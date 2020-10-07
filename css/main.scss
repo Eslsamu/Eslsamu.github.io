@@ -58,3 +58,13 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+/* Particles.js 
+---------------------------------------------------------*/
+#particles-js{
+  position: fixed;
+  background-image: linear-gradient( 135deg, #9e9ca6, #3a348a 100%);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
