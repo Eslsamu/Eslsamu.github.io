@@ -925,9 +925,9 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
+	font-family: "Roboto", sans-serif;
 	font-size: 1em;
-	color: #666666; }
+	color: #c4c4c4; }
 
 ::selection {
 	background: #fae3df; }
@@ -936,10 +936,11 @@ body {
 	background: #fae3df; }
 
 a {
+	font-family: "Roboto", sans-serif;
 	text-decoration: none;
-	color: #e25440; }
+	color: #f1f1f1; }
 	a:hover {
-		color: #b9301c;
+		color: #f1f1f1;
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
@@ -955,7 +956,7 @@ h5 {
 	margin-bottom: .4em;
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
-	color: #333333;
+	color: #f1f1f1;
 	-webkit-font-smoothing: antialiased; }
 
 h1 {
